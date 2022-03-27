@@ -1,2 +1,1 @@
-# general_template for generic projects
-general template for any project
+# /d/LIVE_CLASS/FSDS_FEB/Codebase/FSDS_VGG_16_demo
