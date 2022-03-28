@@ -131,3 +131,5 @@ dmypy.json
 data/
 
 notebook/VGG16_full_model.h5
+notebook/tflite_runtime_demo.ipynb
+*.tflite
